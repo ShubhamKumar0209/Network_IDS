@@ -12,7 +12,7 @@ Botnet Activity
 
 Additionally, it includes an Automated Incident Response Module that simulates defensive actions (Block / Alert / Allow) based on threat severity and model confidence.
 
-**Key_Achievements**
+**Key Achievements**
 1. 99.85% Accuracy, macro F1-score of 0.97
 2. Inference Time: ~0.02 seconds per packet
 3. High precision for DDoS and Brute Force detection
