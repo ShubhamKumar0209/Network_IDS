@@ -1,6 +1,7 @@
 # Network_IDS
 
 **OVERVIEW**
+
 This project implements a lightweight, real-time Network Intrusion Detection System (NIDS) powered by Machine Learning.
 Unlike traditional signature-based firewalls, this system detects malicious traffic using behavioral patterns extracted from network flows.
 
